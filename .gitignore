@@ -1,0 +1,8 @@
+Library
+Temp
+Logs
+.idea
+obj
+*.csproj
+*.sln
+.plastic

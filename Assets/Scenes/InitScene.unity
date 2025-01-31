@@ -339,7 +339,7 @@ MonoBehaviour:
     TypeName: 
   autoRun: 1
   autoInjectGameObjects: []
-  screen: {fileID: 0}
+  initScreen: {fileID: 1841520479}
 --- !u!4 &285958035
 Transform:
   m_ObjectHideFlags: 0
@@ -352,7 +352,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &356734852
 GameObject:
@@ -622,7 +622,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &732079995
 GameObject:
@@ -783,7 +783,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &980936616
 GameObject:
@@ -1154,11 +1154,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddf684e73958f5b48938c39deffad4ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startServerButton: {fileID: 0}
-  stopServerButton: {fileID: 0}
-  startButton: {fileID: 0}
-  stopButton: {fileID: 0}
-  displayMessageText: {fileID: 0}
+  startServerButton: {fileID: 980936618}
+  stopServerButton: {fileID: 1946071438}
+  startButton: {fileID: 135853440}
+  stopButton: {fileID: 1902427824}
+  displayMessageText: {fileID: 690430600}
 --- !u!4 &1841520480
 Transform:
   m_ObjectHideFlags: 0
